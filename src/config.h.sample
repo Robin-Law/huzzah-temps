@@ -1,0 +1,7 @@
+const char *wifiSsid = "FBI Surveillance Van";
+const char *wifiPassword = "password123";
+const char *mqttBrokerAddress = "localhost";
+const int   mqttBrokerPort = 1883;
+const char *mqttTopic = "topickyTopic";
+const char *wifiTestHost = "wifitest.adafruit.com";
+const char *sensorName = "Sensor McSensorface";
